@@ -1,6 +1,8 @@
 # Build an Apartment
 Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
 
+This submission is using an **Android** build
+
 - Course: VR Scenes & Objects
 - Project: Build an Apartment
 
