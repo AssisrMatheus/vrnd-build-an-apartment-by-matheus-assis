@@ -31,3 +31,11 @@ This submission is using an **Android** build
 - [VR Scenes and Objects - Cameras](https://github.com/udacity/VR-Scenes-and-Objects_Cameras/releases)
 - [VR Scenes and Objects - Lights](https://github.com/udacity/VR-Scenes-and-Objects_Lights/releases)
 - VR Scenes and Objects - Build an Apartment
+
+### Personal additional considerations
+It didn't take much time to fill up the scene with props and organize everything, approximately one hour, but I had a problem when trying to make shadows appear. Even though every item was checked as static, lights set as baked and shadow type as "soft shadows" I couldn't see any shadow. So I just assumed this is how it should work, giving that I had to turn off every graphical option. After finishing up everything to submit, I changed "Lightmap Resolution" to 80 as requested on the project's rubrics and shadows appeared! I took +- 1:30 hours trying to fix shadows and plus more 30 min finding the city sound so I spend 3 hours in total.
+
+The lesson asked to use "Mobile/Diffuse" shader but the globe was dark with it, so i changed it to Unlit.
+
+### Attributions
+[City background sound](https://youtu.be/JxRdrOHL25A?list=PL1h0DrCC72uRfSD9jnKJKQjEo4Moxwd4z)
