@@ -1,5 +1,12 @@
 # Build an Apartment
-Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
+
+<p align="center">
+	<img src="./Screenshot_20180913-220909.png" alt="Desk" title="Desk" />
+	<img src="./Screenshot_20180913-220925.png" alt="Kitchen" title="Kitchen" />
+ 	<img src="./Screenshot_20180913-220933.png" alt="Living room" title="Living room" />
+</p>
+
+Starter project for(now out of order) the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
 
 This submission is using an **Android** build
 
